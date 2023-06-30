@@ -1,0 +1,159 @@
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Home.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Vuelo.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.ViewVuelo.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Pasajero.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.ViewPasajero.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\SkyJet Airlines\Presentacion\obj\Debug\Presentacion.Ticket.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.Simple.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.Compuesto.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.Anualidades.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.Home.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.Compuesto.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.Anualidades.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.ViewPasajero.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.ViewVuelo.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.Simple.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes (1)\Sistema interes\Presentacion\obj\Debug\Presentacion.pdb
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\bin\Debug\Presentacion.exe
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\bin\Debug\Presentacion.pdb
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.Home.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.Login.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.Compuesto.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.Splash.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.Anualidades.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.ViewPasajero.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.ViewVuelo.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.Simple.resources
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.exe
+D:\Usuarios\Elian\Desktop\Sistema interes\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.Home.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.Compuesto.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.Anualidades.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.ViewPasajero.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.ViewVuelo.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.Simple.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes\Sistema interes\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.Gradiente.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.Compuesto.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.MenuIntereses.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.Anualidades.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.Simple.resources
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\USUARIO\Downloads\Sistema interes\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.Gradiente.resources
+C:\Users\USUARIO\Documents\Aplicaciones\C#\Escritorio\Interfaz\Sistema interes\Presentacion\obj\Debug\Presentacion.MenuIntereses.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Gradiente.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Compuesto.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.MenuIntereses.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Anualidades.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Simple.resources
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Gradiente.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Compuesto.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.MenuIntereses.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Anualidades.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.Simple.resources
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\rikad\OneDrive\Escritorio\CalculadoraEconomica\Sistema interes-6\Sistema interes\Presentacion\obj\Debug\Presentacion.pdb
